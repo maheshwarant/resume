@@ -1,4 +1,137 @@
 {
-  name: 'Maheshwaran Thirumoorthy',
-  role: 'Digital Scrum Developer'
+  "cookwares": [
+    {
+      "title": "7 PITS PANIYARAM KAL",
+      "price": 880,
+      "image": "7_PANIYARAM_KAL",
+      "category": "Paniyarkal",
+      "description": "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids."
+    },
+    {
+      "title": "9 PITS PANIYARAM KAL",
+      "price": 950,
+      "image": "9_PANIYARAM_KAL",
+      "category": "Paniyarkal",
+      "description": "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids."
+    },
+    {
+      "title": "10 PITS PANIYARAM KAL",
+      "price": 1050,
+      "image": "10_PANIYARAM_KAL",
+      "category": "Paniyarkal",
+      "description": "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids."
+    },
+    {
+      "title": "12 PITS PANIYARAM KAL",
+      "price": 1100,
+      "image": "12_PANIYARAM_KAL",
+      "category": "Paniyarkal",
+      "description": "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids."
+    },
+    {
+      "title": "14 PITS PANIYARAM KAL",
+      "price": 1200,
+      "image": "14_PANIYARAM_KAL",
+      "category": "Paniyarkal",
+      "description": "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids."
+    },
+    {
+      "title": "Traditional Soapstone Dosa Tawa",
+      "price": 750,
+      "image": "Traditional Soapstone Dosa Tawa",
+      "category": "Dosatawa",
+      "description": "You know you are guilty of ordering dosa for breakfast when you were too lazy to make your food.Well, then the Traditional Soap Stone Dosa Tawa makes your work only more manageable if you plan to make it in the kitchen. Additionally, it helps to keep your dosa warm for a longer time.Next time you plan to treat yourself a dosa or two, make them yourself with this traditional soapstone dosa tawa and save up your money!"
+    },
+    {
+      "title": "Traditional Soapstone Seasoned  Dosa Tawa",
+      "price": 950,
+      "image": "Traditional Soapstone Dosa Tawa",
+      "category": "Seasoned Dosatawa",
+      "description": "You know you are guilty of ordering dosa for breakfast when you were too lazy to make your food. Well, then the Traditional Soap Stone Dosa Tawa makes your work only more manageable if you plan to make it in the kitchen. Additionally, it helps to keep your dosa warm for a longer time.Next time you plan to treat yourself a dosa or two, make them yourself with this traditional soapstone dosa tawa and save up your money!"
+    },
+    {
+      "title": "2.5 litre Traditional Soapstone Kachatti",
+      "price" : 1500,
+      "image" : "2.5_Kachatti",
+      "category" : "Kalchatti",
+      "description" : "A soup maker, the Traditional Soap Kal Satti lends rich texture to the food prepared in it. Try out your sambhar or rasam in this culinary antique! This stone utensil provides divine taste to the food cooked. For best aroma and flavour, prepare your soup or rasam in this authentic utensil & garnish it with cilantro!. Serve with hot rice and savour a hearty meal"
+    },
+    {
+      "title" : "3.5 litre Traditional Soapstone Kachatti",
+      "Price" : 2100,
+      "image" : "3.5_Kachatti",
+      "category" : "Kalchatti",
+      "description" : "A soup maker, the Traditional Soap Kal Satti lends rich texture to the food prepared in it. Try out your sambhar or rasam in this culinary antique! This stone utensil provides divine taste to the food cooked. For best aroma and flavour, prepare your soup or rasam in this authentic utensil & garnish it with cilantro!. Serve with hot rice and savour a hearty meal"
+    },
+    {
+      "title" : "3.5 litre Traditional Soapstone Kachatti",
+      "price" : 2100,
+      "image" : "3.5_Kachatti",
+      "category" : "Kalchatti",
+      "description" : "A soup maker, the Traditional Soap Kal Satti lends rich texture to the food prepared in it. Try out your sambhar or rasam in this culinary antique! This stone utensil provides divine taste to the food cooked. For best aroma and flavour, prepare your soup or rasam in this authentic utensil & garnish it with cilantro!.Serve with hot rice and savour a hearty meal"
+    },
+    {
+      "title": "4.5 litre Traditional Soapstone Kachatti",
+      "price" : 2700,
+      "image" : "4.5_Kachatti",
+      "category" : "Kalchatti",
+      "description" : "A soup maker, the Traditional Soap Kal Satti lends rich texture to the food prepared in it. Try out your sambhar or rasam in this culinary antique! This stone utensil provides divine taste to the food cooked. For best aroma and flavour, prepare your soup or rasam in this authentic utensil & garnish it with cilantro!.Serve with hot rice and savour a hearty meal"
+    },
+    {
+      "title": "6.5 litre Traditional Soapstone Kachatti",
+      "price" : 3900,
+      "image" : "6.5_Kachatti",
+      "category" : "Kalchatti",
+      "description" : "A soup maker, the Traditional Soap Kal Satti lends rich texture to the food prepared in it. Try out your sambhar or rasam in this culinary antique! This stone utensil provides divine taste to the food cooked. For best aroma and flavour, prepare your soup or rasam in this authentic utensil & garnish it with cilantro!Serve with hot rice and savour a hearty meal"
+    },
+    {
+      "title": "6.5 litre Traditional Soapstone Kachatti",
+      "price" : 3900,
+      "image" : "6.5_Kachatti",
+      "category" : "Kalchatti",
+      "description" : "A soup maker, the Traditional Soap Kal Satti lends rich texture to the food prepared in it. Try out your sambhar or rasam in this culinary antique! This stone utensil provides divine taste to the food cooked. For best aroma and flavour, prepare your soup or rasam in this authentic utensil & garnish it with cilantro!Serve with hot rice and savour a hearty meal"
+    },
+    {
+      "title": "7 PITS PANIYARAM KAL",
+      "price" : 950,
+      "image" : "7_PANIYARAM_Seasoned_KAL",
+      "category" : "Seasoned Paniyarkal",
+      "description" : "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids"
+    },
+    {
+      "title": "9 PITS PANIYARAM KAL",
+      "price" : 1050,
+      "image" : "9_PANIYARAM_Seasoned_KAL",
+      "category" : "Seasoned Paniyarkal",
+      "description" : "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids"
+    },
+    {
+      "title": "10 PITS PANIYARAM KAL",
+      "price" : 1050,
+      "image" : "10_seasoned_PANIYARAM_KAL",
+      "category" : "Seasoned Paniyarkal",
+      "description" : "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids"
+    },
+    {
+      "title": "12 PITS PANIYARAM KAL",
+      "price" : 1250,
+      "image" : "12_seasoned_PANIYARAM_KAL",
+      "category" : "Seasoned Paniyarkal",
+      "description" : "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids"
+    },
+    {
+      "title": "14 PITS PANIYARAM KAL",
+      "price" : 1350,
+      "image" : "14 Pits seasoned  PANIYARAM_KAL",
+      "category" : "Seasoned Paniyarkal",
+      "description" : "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids"
+    },
+    {
+      "title": "Soapstone miniature set",
+      "price" : 700,
+      "image" : "soapstone miniature set",
+      "category" : "children's toys",
+      "description" : "Paniyarams can be made with these soapstone rocks.Soapstone is a natural rock which is mined from the foothills of the Eastern Ghats in parts of Tamil Nadu. These rocks are then broken into smaller stones and cook pots are carved out of them by hand.Soapstones have been used as cookware for at least the past 300 years. We have evidence of stone pots passed down through generations.We season the paniyaram kal with turmeric powder, sesame oil, castor oil and rice water in different processes for 3 weeks.Clean using regular dish wash soaps or liquids"
+    }
+  ]
 }
